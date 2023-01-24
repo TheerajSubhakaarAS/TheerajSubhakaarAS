@@ -12,7 +12,6 @@
 
 ### **Connect with me:**
 [<img align="left" alt="Theeraj Subhakaar | LinkedIn" height="30px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png" />][linkedin]
-/*[<img align="left" alt="Theeraj Subhakaar | Stackoverflow" height="30px" src="https://img.icons8.com/color/2x/stackoverflow.png" />][stackoverflow]*/
 [<img align="left" alt="Theeraj Subhakaar | Whatsapp" height="30px" src="https://img.icons8.com/doodle/2x/whatsapp.png" />][whatsapp]
 [<img align="left" alt="Theeraj Subhakaar | Gmail" height="30px" src="https://img.icons8.com/doodle/2x/gmail.png" />][gmail]
 <br />
