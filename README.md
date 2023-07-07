@@ -8,7 +8,7 @@
  - 🚀 Data Science and Machine Learning Enthusiast from Chennai, India.
  - 🙍🏽‍♂️ Current: Looking for Internship in 2023.
  - 📦 Passionate about learning how-stuff-works besides programming.
- - ⚡ Fun fact: I love playing Piano 🎹 and listening to music 🎧.
+ - ⚡ Fun fact: I love being minimalist and listening to music 🎧.
 
 ### **Connect with me:**
 [<img align="left" alt="Theeraj Subhakaar | LinkedIn" height="30px" src="https://img.icons8.com/doodle/2x/linkedin--v2.png" />][linkedin]
