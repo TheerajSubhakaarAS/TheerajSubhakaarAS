@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Theeraj Subhakaar A S</h1>
 
 <p align="center">
-  <img src="https://github.com/TheerajSubhakaarAS/TheerajSubhakaarAS/blob/main/Assets/1_cXdJh394X6YIzRCvXsaJzg.gif" alt="Astro GIF" width="1280" height="450"/><br>
+  <img src="https://github.com/TheerajSubhakaarAS/TheerajSubhakaarAS/blob/main/Assets/AI_designing-with-data.gif" alt="Astro GIF" width="1280" height="450"/><br>
 </p>
 
 ### **About Myself:**
