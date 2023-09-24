@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Theeraj Subhakaar A S</h1>
 
 <p align="center">
-  <img src="https://github.com/TheerajSubhakaarAS/TheerajSubhakaarAS/blob/main/Assets/AI_designing-with-data.gif" alt="Astro GIF" width="1280" height="450"/><br>
+  <img src="https://github.com/TheerajSubhakaarAS/TheerajSubhakaarAS/blob/main/Assets/github.gif" alt="Astro GIF" width="1280" height="450"/><br>
 </p>
 
 ### **About Myself:**
@@ -19,15 +19,8 @@
 ---
 
 ### Languages and Tools:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-[<img alt="python" width="35px" src="https://img.icons8.com/color/240/000000/python.png">](https://www.python.org/)&ensp;
-[<img alt="cpp" width="32px" src="https://isocpp.org/assets/images/cpp_logo.png">](https://isocpp.org/)
-[<img alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">](https://dev.mysql.com/)&ensp;
-[<img alt="R-Lang" width="35px" src="https://www.r-project.org/Rlogo.png">](https://www.r-project.org/)&ensp;
-[<img alt="Scikit Learn" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">](https://scikit-learn.org/stable/)&ensp;
-[<img alt="Visual Studio Code" width="32px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />](https://code.visualstudio.com/)&ensp;
-[<img alt="Git" width="35px" src="https://img.icons8.com/color/240/000000/git.png">](https://git-scm.com/)&ensp;
-[<img alt="Github" width="35px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">](https://github.com/)&ensp;
 
 ---
 
