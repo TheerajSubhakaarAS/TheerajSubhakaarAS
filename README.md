@@ -3,7 +3,7 @@
 
 ### **About Myself:**
  - 🚀 Data Science and Machine Learning Enthusiast from Chennai, India.
- - 🙍🏽‍♂️ Current: Looking for Internship in 2023.
+ - 🙍🏽‍♂️ Current: Looking for Internship in 2024.
  - 📦 Passionate about learning how-stuff-works besides programming.
  - ⚡ Fun fact: I love being minimalist and listening to music 🎧.
 
